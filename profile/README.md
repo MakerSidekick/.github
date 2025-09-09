@@ -1,3 +1,8 @@
+> [!WARNING]
+> MOVED TO New Org: https://github.com/meetsidekick
+
+
+
 ## Meet The Sidekick! 👋
 > Your expressive, open source, hackable desk companion!  
 >  (Loosely Inspired by Tamagotchi nostalgia, built for modern tinkerers)
